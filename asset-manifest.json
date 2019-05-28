@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/movie-list/static/css/main.5c5158b8.chunk.css",
-    "main.js": "/movie-list/static/js/main.6d5e0f97.chunk.js",
-    "main.js.map": "/movie-list/static/js/main.6d5e0f97.chunk.js.map",
-    "runtime~main.js": "/movie-list/static/js/runtime~main.de49e91d.js",
-    "runtime~main.js.map": "/movie-list/static/js/runtime~main.de49e91d.js.map",
-    "static/css/2.cc946ccf.chunk.css": "/movie-list/static/css/2.cc946ccf.chunk.css",
-    "static/js/2.ddbafa9f.chunk.js": "/movie-list/static/js/2.ddbafa9f.chunk.js",
-    "static/js/2.ddbafa9f.chunk.js.map": "/movie-list/static/js/2.ddbafa9f.chunk.js.map",
-    "index.html": "/movie-list/index.html",
-    "precache-manifest.24fee3ba59af4cfd1fd294adf3fdbcc3.js": "/movie-list/precache-manifest.24fee3ba59af4cfd1fd294adf3fdbcc3.js",
-    "service-worker.js": "/movie-list/service-worker.js",
-    "static/css/2.cc946ccf.chunk.css.map": "/movie-list/static/css/2.cc946ccf.chunk.css.map",
-    "static/css/main.5c5158b8.chunk.css.map": "/movie-list/static/css/main.5c5158b8.chunk.css.map",
-    "static/media/font-awesome.css": "/movie-list/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/Movie-List/static/css/main.5c5158b8.chunk.css",
+    "main.js": "/Movie-List/static/js/main.a22d7f85.chunk.js",
+    "main.js.map": "/Movie-List/static/js/main.a22d7f85.chunk.js.map",
+    "runtime~main.js": "/Movie-List/static/js/runtime~main.05675f2b.js",
+    "runtime~main.js.map": "/Movie-List/static/js/runtime~main.05675f2b.js.map",
+    "static/css/2.dd731ebc.chunk.css": "/Movie-List/static/css/2.dd731ebc.chunk.css",
+    "static/js/2.ddbafa9f.chunk.js": "/Movie-List/static/js/2.ddbafa9f.chunk.js",
+    "static/js/2.ddbafa9f.chunk.js.map": "/Movie-List/static/js/2.ddbafa9f.chunk.js.map",
+    "index.html": "/Movie-List/index.html",
+    "precache-manifest.a059831485f276287676095f8a1a0666.js": "/Movie-List/precache-manifest.a059831485f276287676095f8a1a0666.js",
+    "service-worker.js": "/Movie-List/service-worker.js",
+    "static/css/2.dd731ebc.chunk.css.map": "/Movie-List/static/css/2.dd731ebc.chunk.css.map",
+    "static/css/main.5c5158b8.chunk.css.map": "/Movie-List/static/css/main.5c5158b8.chunk.css.map",
+    "static/media/font-awesome.css": "/Movie-List/static/media/fontawesome-webfont.fee66e71.woff"
   }
 }
