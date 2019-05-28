@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/movie-list/static/css/main.5c5158b8.chunk.css",
+    "main.js": "/movie-list/static/js/main.6d5e0f97.chunk.js",
+    "main.js.map": "/movie-list/static/js/main.6d5e0f97.chunk.js.map",
+    "runtime~main.js": "/movie-list/static/js/runtime~main.de49e91d.js",
+    "runtime~main.js.map": "/movie-list/static/js/runtime~main.de49e91d.js.map",
+    "static/css/2.cc946ccf.chunk.css": "/movie-list/static/css/2.cc946ccf.chunk.css",
+    "static/js/2.ddbafa9f.chunk.js": "/movie-list/static/js/2.ddbafa9f.chunk.js",
+    "static/js/2.ddbafa9f.chunk.js.map": "/movie-list/static/js/2.ddbafa9f.chunk.js.map",
+    "index.html": "/movie-list/index.html",
+    "precache-manifest.24fee3ba59af4cfd1fd294adf3fdbcc3.js": "/movie-list/precache-manifest.24fee3ba59af4cfd1fd294adf3fdbcc3.js",
+    "service-worker.js": "/movie-list/service-worker.js",
+    "static/css/2.cc946ccf.chunk.css.map": "/movie-list/static/css/2.cc946ccf.chunk.css.map",
+    "static/css/main.5c5158b8.chunk.css.map": "/movie-list/static/css/main.5c5158b8.chunk.css.map",
+    "static/media/font-awesome.css": "/movie-list/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
