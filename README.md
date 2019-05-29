@@ -1,6 +1,6 @@
 ![App pic](https://imgur.com/FJ1NRA2.png)
 
-## [Live Demo Here]()
+## [Live Demo Here](http://adamsubtract.github.io/Movie-List)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
