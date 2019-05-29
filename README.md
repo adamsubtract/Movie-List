@@ -1,3 +1,7 @@
+![App pic](https://imgur.com/FJ1NRA2.png)
+
+## [Live Demo Here]()
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
