@@ -1,4 +1,4 @@
-![App pic](https://imgur.com/FJ1NRA2.png)
+![App pic](https://i.imgur.com/50ki2to.png)
 
 ## [Live Demo Here](http://adamsubtract.github.io/Movie-List)
 
