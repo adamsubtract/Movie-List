@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import Joi from "joi-browser";
 import Form from "./common/form";
 
@@ -18,7 +18,7 @@ class LoginForm extends Form {
   };
 
   doSubmit = () => {
-    //Call the server
+    // Call the server
     console.log("Submitted");
   };
 
