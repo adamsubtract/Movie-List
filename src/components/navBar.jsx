@@ -1,5 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
+import RegisterForm from "./registerForm";
 
 const NavBar = () => {
   return (
@@ -31,6 +32,9 @@ const NavBar = () => {
           </NavLink>
           <NavLink className="nav-item nav-link" to="/login">
             Login
+          </NavLink>
+          <NavLink className="nav-item nav-link" to="/register">
+            Register
           </NavLink>
         </div>
       </div>
