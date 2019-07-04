@@ -2,40 +2,21 @@
   "name": "vidly",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://adamsubtract.github.io/Movie-List",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.1.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^2.0.1",
     "joi-browser": "^13.4.0",
     "lodash": "^4.17.10",
     "prop-types": "^15.6.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }

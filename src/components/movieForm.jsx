@@ -20,7 +20,7 @@ class MovieForm extends Form {
     _id: Joi.string(),
     title: Joi.string()
       .required()
-      .label("Genre"),
+      .label("Title"),
     genreId: Joi.string()
       .required()
       .label("Genre"),
@@ -53,7 +53,9 @@ class MovieForm extends Form {
     return {
       _id: movie._id,
       title: movie.title,
-      genreId: movie.genre._id
+      genreId: movie.genre._id,
+      numberInStock: movie.numberInStock,
+      dailyRentalRate: movie.dailyRentalRate
     };
   }
 
