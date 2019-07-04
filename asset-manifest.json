@@ -1,18 +1,11 @@
 {
-  "files": {
-    "main.css": "/Movie-List/static/css/main.6f608051.chunk.css",
-    "main.js": "/Movie-List/static/js/main.a6d49360.chunk.js",
-    "main.js.map": "/Movie-List/static/js/main.a6d49360.chunk.js.map",
-    "runtime~main.js": "/Movie-List/static/js/runtime~main.05675f2b.js",
-    "runtime~main.js.map": "/Movie-List/static/js/runtime~main.05675f2b.js.map",
-    "static/css/2.dd731ebc.chunk.css": "/Movie-List/static/css/2.dd731ebc.chunk.css",
-    "static/js/2.88f2d478.chunk.js": "/Movie-List/static/js/2.88f2d478.chunk.js",
-    "static/js/2.88f2d478.chunk.js.map": "/Movie-List/static/js/2.88f2d478.chunk.js.map",
-    "index.html": "/Movie-List/index.html",
-    "precache-manifest.80227cd02389dd30e6efab6a4f47684c.js": "/Movie-List/precache-manifest.80227cd02389dd30e6efab6a4f47684c.js",
-    "service-worker.js": "/Movie-List/service-worker.js",
-    "static/css/2.dd731ebc.chunk.css.map": "/Movie-List/static/css/2.dd731ebc.chunk.css.map",
-    "static/css/main.6f608051.chunk.css.map": "/Movie-List/static/css/main.6f608051.chunk.css.map",
-    "static/media/font-awesome.css": "/Movie-List/static/media/fontawesome-webfont.fee66e71.woff"
-  }
+  "main.css": "static/css/main.f0cee17a.css",
+  "main.css.map": "static/css/main.f0cee17a.css.map",
+  "main.js": "static/js/main.d05de7b5.js",
+  "main.js.map": "static/js/main.d05de7b5.js.map",
+  "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
+  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
+  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
+  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
 }
